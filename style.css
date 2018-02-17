@@ -9,5 +9,7 @@ html {
 body {
   text-align: center;
 }
-
+body {
+  background-color: grey;
+}
 /* Create your styles below */
